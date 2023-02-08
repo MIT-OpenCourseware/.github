@@ -1,4 +1,4 @@
-# MIT OpenCourseware Log
+# Study Log
 
 Purpose: To keep track of all opencourseware completed. As I work through classes, I will log all coursework and exams.
 
