@@ -4,10 +4,14 @@ Purpose: To keep track of all opencourseware completed. As I work through classe
 
 ## Proposed courseload
 
+| PREWORK | status |
+| -- | --|
+| [GCSE Mathematics](https://github.com/MIT-OpenCourseware/Math-Prework) | in progress |
+
 |FUNDAMENTALS | course name | status |
 | --- | --- | --- |
 | 6.100A | Introduction to Computer Science Programming in Python | skipped, prereq fulfilled due to completing St. Thomas University SEIS603 |
-| 6.121  | [Introduction to Algorithms](https://github.com/MIT-OpenCourseware/Introduction-to-Algorithms) | in progress |
+| 6.121  | [Introduction to Algorithms](https://github.com/MIT-OpenCourseware/Introduction-to-Algorithms) | not started |
 | (Not MIT) | Calculus I | not started |
 | (Not MIT) | Calculus II | not started |
 | 6.120A | Discrete Mathematics and Proof for Computer Science |not started |
