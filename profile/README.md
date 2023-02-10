@@ -6,7 +6,7 @@ Purpose: To keep track of all opencourseware completed. As I work through classe
 
 | PREWORK | status |
 | -- | --|
-| [GCSE Mathematics](https://github.com/MIT-OpenCourseware/Math-Prework) | in progress |
+| [GCSE Mathematics](https://github.com/MIT-OpenCourseware/Math-Prework/blob/main/GCSE_Mathematics.md) | in progress |
 
 |FUNDAMENTALS | course name | status |
 | --- | --- | --- |
